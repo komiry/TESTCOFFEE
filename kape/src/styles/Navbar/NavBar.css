@@ -1,0 +1,22 @@
+/* /src/styles/navbar.css */
+
+.nav-links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin-right: 20px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #483434;
+    font-size: 1.063rem;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .nav-links a:hover {
+    color: #B85C38;
+  }
+  
